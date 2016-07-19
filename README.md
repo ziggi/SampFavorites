@@ -3,7 +3,7 @@ C++ class for working with SA-MP favorites list (USERDATA.DAT).
 
 # Usage
 The example of usage this class:
-```Pawn
+```C++
 #include <iostream>
 #include "SampFavorites.hpp"
 
